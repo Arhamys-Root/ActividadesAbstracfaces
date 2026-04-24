@@ -1,7 +1,6 @@
 package net.salesianoslacuesta.actividad1;
 
 import java.util.Scanner;
-import net.salesianoslacuesta.actividad1.calculoGeometricoBidimensional.CalculoGeometricoBidimensional;
 import net.salesianoslacuesta.actividad1.circulo.Circulo;
 import net.salesianoslacuesta.actividad1.rectangulo.Rectangulo;
 
